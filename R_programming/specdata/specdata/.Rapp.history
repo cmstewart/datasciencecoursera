@@ -1,0 +1,43 @@
+180 * 50
+74-9000
+a <- available.packages()
+pwd
+install.packages("lattice")
+install.packages("language")
+install.packages("languages")
+install.packages("lang")
+install.packages(c("slidify","ggplot2","devtools"))
+library(ggplot2)
+search()
+install.packages("devtools")
+library(devtools)
+find_rtools()
+install.package("KernSmooth R")
+install.packages("KernSmooth R")
+install.packages("KernSmooth")
+packagedescription('KernSmooth')
+citation('KernSmooth')
+library(KernSmooth)
+x <- matrix(1:6, 2, 3)
+x
+for(i in seq_len(nrow(X))) {}
+for(i in seq_len(nrow(x))) {
+for(j in seq_len(ncol(x))) {
+print(x[i, j])
+}
+}
+pwd
+setwd(Users ▸ christopherstewart ▸ Desktop ▸ _Coursera_data_science ▸ R_programming ▸ specdata ▸ specdata)
+setwd(Users\christopherstewart\Desktop\_Coursera_data_science\R_programming\specdata\specdata)
+setwd(Users/christopherstewart/Desktop/_Coursera_data_science/R_programming/specdata/specdata)
+setwd(~/Desktop/_Coursera_data_science/R_programming/specdata/specdata)
+setwd(""~/Desktop/_Coursera_data_science/R_programming/specdata/specdata")
+setwd("~/Desktop/_Coursera_data_science/R_programming/specdata/specdata")
+pwd
+getwd()
+z <- read.csv(76.csv)
+z <- read.csv("76.csv")
+getwd()
+z <- read.csv(147.csv)
+z <- read.csv(file="147.csv",head=TRUE)
+z
